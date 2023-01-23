@@ -31,7 +31,7 @@ function save() {
 }
 */
 
-const data = JSON.parse(localStorage.getItem("NLWSetup"))
+const data = JSON.parse(localStorage.getItem("NLWSetup")) || {}
 
 nlwSetup.setData(data)
 nlwSetup.load()

@@ -33,7 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O habist é um app para ajudar a manter sua rotina em dia e atualizada
+O habits é um app para ajudar a manter sua rotina em dia e atualizada.
+
+ - [Visite o projeto online!](https://crix030.github.io/project-crix/)
+ 
 
 
 ## 🔖 Layout
